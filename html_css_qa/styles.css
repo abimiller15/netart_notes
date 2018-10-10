@@ -1,0 +1,22 @@
+.red-fantasy{
+    color:red;
+    font-family:fantasy;
+    font-size: 40px;
+    background-color: #eee;
+    padding-left: 80px;
+    /*margin-bottom: 120px;*/
+    margin: 25px 10px;
+    border: 1px green solid;
+
+}
+a{
+    color:green;
+    text-decoration: none;
+}
+a:hover{
+    color:purple;
+    cursor:crosshair;
+}
+#top{
+    background-color:#ccc;
+}
